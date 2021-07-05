@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '郑清的个人博客'
-description: 'If I were you.昵称郑清，全栈开发者，热爱技术&设计&分享。'
-keyword: '郑清, 郑清的个人博客, 郑清的博客, 后端, 前端开发, 个人博客, java，javascript, vuejs, nodejs, 设计，分享'
+title: '张志毅的个人博客'
+description: 'If I were you.昵称张志毅，人工智能爱好者，机器学习搬运工，热爱技术&设计&分享。'
+keyword: '张志毅, 张志毅的个人博客, 张志毅的博客, 后端, 前端开发, 个人博客, python，java，javascript, vuejs, nodejs, 设计，分享'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -25,9 +25,9 @@ footer:
   since: 2019
 
 # Author 配置博主信息
-author: '郑清'
+author: '张志毅'
 nickname: 'zhengqing'
-bio: '全栈开发者，热爱技术&设计&分享，简单乐观爱创造'
+bio: '人工智能爱好者，热爱技术&设计&分享，简单乐观爱创造'
 avatar: '/assets/img/zhengqing.png'
 
 # Search 开启文章搜索功能
@@ -60,8 +60,8 @@ sns:
 #  weibo: '//weibo.com/lovecolcol'
 #  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
 #  instagram: '//www.instagram.com/steveliaocn'
-  instagram: '//blog.csdn.net/qq_38225558'
-  github: '//github.com/zhengqingya'
+  instagram: '//blog.csdn.net/weixin_45072810'
+  github: '//github.com/zhangzhiyi0108'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
